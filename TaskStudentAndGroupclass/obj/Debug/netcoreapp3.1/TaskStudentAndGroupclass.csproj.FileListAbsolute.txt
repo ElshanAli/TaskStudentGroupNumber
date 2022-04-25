@@ -1,0 +1,14 @@
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\bin\Debug\netcoreapp3.1\TaskStudentAndGroupclass.exe
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\bin\Debug\netcoreapp3.1\TaskStudentAndGroupclass.deps.json
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\bin\Debug\netcoreapp3.1\TaskStudentAndGroupclass.runtimeconfig.json
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\bin\Debug\netcoreapp3.1\TaskStudentAndGroupclass.runtimeconfig.dev.json
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\bin\Debug\netcoreapp3.1\TaskStudentAndGroupclass.dll
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\bin\Debug\netcoreapp3.1\TaskStudentAndGroupclass.pdb
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.csproj.AssemblyReference.cache
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.AssemblyInfoInputs.cache
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.AssemblyInfo.cs
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.csproj.CoreCompileInputs.cache
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.dll
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.pdb
+D:\This PC\TaskStudentAndGroupclass\TaskStudentAndGroupclass\obj\Debug\netcoreapp3.1\TaskStudentAndGroupclass.genruntimeconfig.cache
